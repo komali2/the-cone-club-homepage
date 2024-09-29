@@ -6,6 +6,7 @@
     <description>The Cone Club</description>
     <generator>Hugo 0.133.0 &amp; FixIt v0.3.12</generator>
     <language>en</language>
+    <copyright>Caleb Rogers</copyright>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
