@@ -315,7 +315,7 @@ enableEmoji = true
   # FixIt 0.2.15 | CHANGED FixIt theme version
   version = "0.3.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = ""
+  description = "A pedestrian rights direct action group in Taipei."
   # site keywords
   keywords = ["pedestrian rights", "taiwan", "taipei"]
   # site default theme ["light", "dark", "auto"]
@@ -463,12 +463,12 @@ enableEmoji = true
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license = ""
+    license = "CC-BY"
     # FixIt 0.3.0 | NEW whether to show Hugo and theme info
     [params.footer.powered]
       enable = true
-      hugoLogo = true
-      themeLogo = true
+      hugoLogo = false
+      themeLogo = false
     # FixIt 0.2.17 | CHANGED Site creation time
     [params.footer.siteTime]
       enable = false
@@ -564,7 +564,7 @@ enableEmoji = true
     GitHub = ""
     Linkedin = ""
     Twitter = ""
-    Instagram = ""
+    Instagram = "cone_club_tw"
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -749,7 +749,7 @@ enableEmoji = true
 
   # Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
@@ -772,9 +772,9 @@ enableEmoji = true
 
   # FixIt 0.2.14 | NEW GitHub banner in the top-right or top-left corner
   [params.githubCorner]
-    enable = false
-    permalink = "https://github.com/hugo-fixit/FixIt"
-    title = "View source on GitHub"
+    enable = true
+    permalink = "https://codeberg.org/calebrogers/the-cone-club"
+    title = "View source on Codeberg"
     position = "right" # ["left", "right"]
 
   # FixIt 0.2.14 | NEW Gravatar config

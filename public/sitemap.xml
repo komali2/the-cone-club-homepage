@@ -2,8 +2,10 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>http://localhost:1313/posts/</loc><lastmod>2024-09-29T13:27:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>http://localhost:1313/</loc><lastmod>2024-09-29T13:27:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/tags/community/</loc><lastmod>2024-09-29T15:34:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/posts/</loc><lastmod>2024-09-29T15:34:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/posts/10e8a38/</loc><lastmod>2024-09-29T15:34:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/tags/</loc><lastmod>2024-09-29T15:34:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://localhost:1313/</loc><lastmod>2024-09-29T15:34:58&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
       <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://localhost:1313/collections/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-      <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+      <loc>http://localhost:1313/collections/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
